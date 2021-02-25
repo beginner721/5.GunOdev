@@ -18,10 +18,10 @@ namespace BuSeferOldu
 
             GamerInfo gamerInfo = new GamerInfo
             {
-                FirstName = "Memduh Baran",
+                FirstName = "AD ",
                 Id = 1,
-                LastName = "Kurtboğan",
-                TcN = "31265166910",
+                LastName = "SOYAD",
+                TcN = "TC",
                 DateOfBirth = new DateTime(1997, 5, 21)
             };
 
